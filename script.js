@@ -2,7 +2,7 @@ let nama = prompt('Siapa namamu?');
 let tanya = true;
 while( tanya == true) {
     // Player
-    let P = prompt('SIlahkan pilih : (batu, gunting, kertas).');
+    let P = prompt('Silahkan pilih : (batu, gunting, kertas).');
 
 
     // pilihan random computer
